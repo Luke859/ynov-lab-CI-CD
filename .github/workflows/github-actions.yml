@@ -33,4 +33,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: luke859/ynov-lab-ci-cd:latest
+          tags: Luke859/ynov-lab-ci-cd:latest
